@@ -1,14 +1,26 @@
-layout_spectrum: 0.039301377488300204
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5406278818845749
 color:
-  brandStrength: 0.36950989649631083
-  lightness: 0.3569863166194409
   saturation: 0.4396988139487803
-  rhythmicContrast: 0.8399129677563906
+  brandStrength: 0.3695098964963108
+  lightness: 0.3569863166194409
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#6E8AA2'
+    - '#88ADC0'
+    - '#2B3244'
+    - '#E1F3F5'
+  rhythmicContrast: 0.8399129677563906
+layout_spectrum: 0.0393013774883002
 name: roger
