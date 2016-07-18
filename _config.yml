@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5149254
 color:
   saturation: 0.1277985
   brandStrength: 0.3695098964963108
@@ -21,6 +22,5 @@ color:
     - '#2B3244'
     - '#E1F3F5'
   rhythmicContrast: 1
-typography_spectrum: 0.5149254
-layout_spectrum: 0.0393013774883002
+layout_spectrum: 0.3218284
 name: roger
