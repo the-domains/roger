@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[roger]]></title>
+        <description><![CDATA[roger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jul 2016 18:15:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The fragile UK economy has a chance to abandon failed policies post-Brexit]]></title>
+            <description><![CDATA[<article><h1>The fragile UK economy has a chance to abandon failed policies post-Brexit</h1><p>Almost four weeks have passed since Britain voted to leave the EU and those who wanted to remain in it are having trouble accepting the result. They feel bereft. They feel that they were defeated by underhand means. They feel that those who voted for Brexit were uneducated and didn't really understand what they were doing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/960de78024da474d1e8dc2fa06ca8496/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F1e3d2c195af99b2e54fcde440542a50e996dbbb8%2F0_373_3000_1800%2F3000.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D3f265b6ff56ebad135e964b036045fa8"></article>]]></description>
+            <link>https://www.theguardian.com/business/2016/jul/17/uk-economy-brexit-failed-economic-policies?utm_source=esp&amp;utm_medium=Email&amp;utm_campaign=GU+Today+main+NEW+H+categories&amp;utm_term=182142&amp;subid=18684279&amp;CMP=EMCNEWEML6619I2</link>
+            <guid isPermaLink="false">b1cc3eb0-d20d-4bab-a90e-136c93a2780e</guid>
+            <pubDate>Tue, 19 Jul 2016 18:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
