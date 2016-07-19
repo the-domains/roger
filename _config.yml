@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5149254
 color:
   saturation: 0.1277985
   brandStrength: 0.4943609
@@ -22,5 +21,6 @@ color:
     - '#2B3244'
     - '#E1F3F5'
   rhythmicContrast: 1
-layout_spectrum: 0.3218284
+typography_spectrum: 0.5149254
+layout_spectrum: 0.6553885
 name: roger
