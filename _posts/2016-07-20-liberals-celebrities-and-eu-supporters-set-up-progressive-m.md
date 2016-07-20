@@ -1,0 +1,32 @@
+---
+title: 'Liberals, celebrities and EU supporters set up progressive movement'
+datePublished: '2016-07-20T16:42:19.825Z'
+dateModified: '2016-07-20T16:38:27.146Z'
+author:
+  - name: Patrick Wintour
+    url: 'https://www.theguardian.com/profile/patrickwintour'
+    avatar: {}
+  - name: Rowena Mason
+    url: 'https://www.theguardian.com/profile/rowena-mason'
+    avatar: {}
+isBasedOnUrl: >-
+  http://www.theguardian.com/politics/2016/jul/19/liberals-celebrities-and-eu-supporters-set-up-progressive-movement
+description: >-
+  A new cross-party movement for progressive liberalism that could endorse
+  candidates in favour of the EU and immigration at the next election is being
+  set up by politicians, celebrities and intellectuals. The initiative has the
+  support of Jonathon Porritt, the environmentalist, Caroline Criado-Perez, the
+  feminist writer and Luke Pritchard from the band Kooks, as a space for people
+  who want a voice for openness and tolerance.
+publisher: {}
+via: {}
+starred: false
+sourcePath: >-
+  _posts/2016-07-20-liberals-celebrities-and-eu-supporters-set-up-progressive-m.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+<article style=""><h1>Liberals, celebrities and EU supporters set up progressive movement</h1><p>A new cross-party movement for progressive liberalism that could endorse candidates in favour of the EU and immigration at the next election is being set up by politicians, celebrities and intellectuals. The initiative has the support of Jonathon Porritt, the environmentalist, Caroline Criado-Perez, the feminist writer and Luke Pritchard from the band Kooks, as a space for people who want a voice for openness and tolerance.</p><img src="https://i.guim.co.uk/img/media/d121ddf3d820f9d007188eb79d995a259d3777fe/396_745_2114_1268/2114.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=2065e6182faef3b98b40b874bb3b8d9b" /></article>
