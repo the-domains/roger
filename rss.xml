@@ -4,8 +4,15 @@
         <description><![CDATA[roger]]></description>
         <link>https://thegrid.ai/roger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 10:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 10:50:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[40,000 people have accused the Leave.EU campaign of inciting racial hatred]]></title>
+            <description><![CDATA[<article><h1>40,000 people have accused the Leave.EU campaign of inciting racial hatred</h1><p>Nearly 40,000 people have lodged a complaint with the police alleging that Nigel Farage incited racial and religious hatred during the European Union referendum campaign. A statement signed by over 39,800 people alleging the offence, was handed into officers at Kentish Town police station at 12.30pm on 20 July 2016.</p><img src="http://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/20/17/web-farage-poster-rex.jpg"></article>]]></description>
+            <link>http://www.independent.co.uk/news/uk/politics/nigel-farage-leaveeu-campaign-inciting-racial-and-religious-hatred-40000-lodge-complaint-a7147141.html</link>
+            <guid isPermaLink="false">d1259bf7-873b-40c2-96dd-551222b70830</guid>
+            <pubDate>Thu, 21 Jul 2016 10:49:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK scientists speak about Brexit pain - BBC News]]></title>
             <description><![CDATA[<article><h1>UK scientists speak about Brexit pain - BBC News</h1><p>Just weeks after the UK voted to leave the European Union, researchers are losing grants. BBC News has spoken to several research groups and small businesses who say they will soon have to scale down operations and lay off staff.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eba17ed60b64476268865d50781d14a0/noop.jpg?input=http%3A%2F%2Fichef-1.bbci.co.uk%2Fnews%2F1024%2Fcpsprodpb%2F267E%2Fproduction%2F_90445890_de27-1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/business-36834977</link>
             <guid isPermaLink="false">5462513a-6e3f-4295-9be9-800c02348855</guid>
             <pubDate>Tue, 19 Jul 2016 20:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris wrong to claim Brexit won't affect our European leadership]]></title>
-            <description><![CDATA[<article><h1>Boris wrong to claim Brexit won't affect our European leadership</h1><p>Entering his first EU meeting as Foreign Minister yesterday, Boris Johnson was upbeat about the implications of Brexit on UK foreign policy influence, telling reporters the UK was " not going to be in any way abandoning our leading role in European cooperation and participation of all kinds".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62b9a86ba0993c453ed8fdfed9637f35/croprotate.jpg?cropheight=1811&cropwidth=2628&degrees=0&input=https%3A%2F%2Finfacts.org%2Fwp-content%2Fuploads%2F2016%2F07%2FRTSIHRF.jpg&x=0&y=0"></article>]]></description>
-            <link>https://infacts.org/boris-wrong-claim-brexit-wont-affect-european-leadership/</link>
-            <guid isPermaLink="false">2e049ebf-4be8-4dad-8cc6-566d4736fbc6</guid>
-            <pubDate>Tue, 19 Jul 2016 20:43:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
