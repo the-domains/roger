@@ -4,8 +4,15 @@
         <description><![CDATA[roger]]></description>
         <link>https://thegrid.ai/roger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 16:18:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Picture]]></title>
+            <description><![CDATA[<article><h1>Another Picture</h1><p>This is some text.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac30725a-94b6-428e-8ac3-4743b3d5dfc6.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac30725a-94b6-428e-8ac3-4743b3d5dfc6.jpg</link>
+            <guid isPermaLink="false">67402f8c-9840-4315-9157-d3f04e18548e</guid>
+            <pubDate>Fri, 22 Jul 2016 16:17:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Copenhagen Harbour]]></title>
             <description><![CDATA[<article><h1>Copenhagen Harbour</h1><p>An original image by Roger Cavanagh processed with Prisma</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c75525-2b6f-461f-a2ed-09f93726dc05.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/politics/2016/jul/19/liberals-celebrities-and-eu-supporters-set-up-progressive-movement</link>
             <guid isPermaLink="false">3c2ae4a6-b162-4f28-8992-3a004496c603</guid>
             <pubDate>Wed, 20 Jul 2016 16:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mossberg: I just deleted half my iPhone apps. You should too.]]></title>
-            <description><![CDATA[<article><h1>Mossberg: I just deleted half my iPhone apps. You should too.</h1><p>Pokémon Go may be a sensation, but the novelty of the App Store is over</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6aed81ffe3cc9030bc38a25f32d29578/croprotate.jpg?cropheight=1995&cropwidth=3000&degrees=0&input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50159015%2FGettyImages-147238592.0.0.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.recode.net/2016/7/20/12230740/mossberg-delete-iphone-apps</link>
-            <guid isPermaLink="false">70a3afce-e69b-483a-90d9-158368a24880</guid>
-            <pubDate>Wed, 20 Jul 2016 15:38:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
