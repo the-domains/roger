@@ -4,8 +4,15 @@
         <description><![CDATA[roger]]></description>
         <link>https://thegrid.ai/roger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 16:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 19:40:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brexit plunges UK economy to worst level since 2009, data suggests - BBC News]]></title>
+            <description><![CDATA[<article><h1>Brexit plunges UK economy to worst level since 2009, data suggests - BBC News</h1><p>Britain's decision to leave the EU has led to a "dramatic deterioration" in economic activity, not seen since the aftermath of the financial crisis. Data from Markit's Purchasing Manager's Index, or PMI, shows a fall to to 47.7 in July, the lowest level since April in 2009. A reading below 50 indicates contraction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f5e4b1dc0f4c41c3f2f0507a98561df3/noop.jpg?input=http%3A%2F%2Fichef-1.bbci.co.uk%2Fnews%2F1024%2Fcpsprodpb%2F9E3B%2Fproduction%2F_88070504_gettyimages-498923856.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/business-36864273</link>
+            <guid isPermaLink="false">66cd2e6e-b6c0-4b45-81dc-9611b99f6834</guid>
+            <pubDate>Fri, 22 Jul 2016 19:40:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another Picture]]></title>
             <description><![CDATA[<article><h1>Another Picture</h1><p>This is some text.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac30725a-94b6-428e-8ac3-4743b3d5dfc6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/uk-england-london-36842940</link>
             <guid isPermaLink="false">b582d17a-1d86-475b-9887-be6bca84dc15</guid>
             <pubDate>Wed, 20 Jul 2016 16:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hmm?]]></title>
-            <description><![CDATA[<article><h1>Hmm?</h1><p>A new cross-party movement for progressive liberalism that could endorse candidates in favour of the EU and immigration at the next election is being set up by politicians, celebrities and intellectuals. The initiative has the support of Jonathon Porritt, the environmentalist, Caroline Criado-Perez, the feminist writer and Luke Pritchard from the band Kooks, as a space for people who want a voice for openness and tolerance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c081acc422eeaa15fa1be4174be35675/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fd121ddf3d820f9d007188eb79d995a259d3777fe%2F396_745_2114_1268%2F2114.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D2065e6182faef3b98b40b874bb3b8d9b"></article>]]></description>
-            <link>http://www.theguardian.com/politics/2016/jul/19/liberals-celebrities-and-eu-supporters-set-up-progressive-movement</link>
-            <guid isPermaLink="false">3c2ae4a6-b162-4f28-8992-3a004496c603</guid>
-            <pubDate>Wed, 20 Jul 2016 16:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
