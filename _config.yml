@@ -7,15 +7,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#D8D8DA'
@@ -24,6 +24,6 @@ color:
     - '#AE816A'
     - '#8C7465'
   rhythmicContrast: 1
-typography_spectrum: 0.5194235
-layout_spectrum: 0.955312
+typography_spectrum: 0.4376054
+layout_spectrum: 0.242833
 name: roger
